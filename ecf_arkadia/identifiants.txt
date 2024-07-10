@@ -1,0 +1,26 @@
+identifiants des utilisateurs : 
+
+admin
+					
+userPhilipe  						
+passwordPhilipe  			
+				
+
+
+veterinaire
+
+userMathieu
+passwordMathieu
+
+
+
+
+employe
+ 
+userLisa
+passwordLisa
+
+
+
+
+

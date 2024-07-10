@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6676a2af8bf6b00886c93ac2"
+  },
+  "animal_id": "3",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676a2b08bf6b00886c93ac4"
+  },
+  "animal_id": "4",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676a2b18bf6b00886c93ac8"
+  },
+  "animal_id": "5",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676a2b28bf6b00886c93acb"
+  },
+  "animal_id": "6",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676a33a8bf6b00886c93b26"
+  },
+  "animal_id": "12",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676b43d8bf6b00886c9458c"
+  },
+  "animal_id": "27",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676d8be8bf6b00886c95610"
+  },
+  "animal_id": "16",
+  "clicks": 3
+},
+{
+  "_id": {
+    "$oid": "6676e4cb8bf6b00886c95a7f"
+  },
+  "animal_id": "15",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676e4ce8bf6b00886c95a81"
+  },
+  "animal_id": "2",
+  "clicks": 1
+},
+{
+  "_id": {
+    "$oid": "6676e4d08bf6b00886c95a83"
+  },
+  "animal_id": "13",
+  "clicks": 21
+},
+{
+  "_id": {
+    "$oid": "6676e9b98bf6b00886c95daa"
+  },
+  "animal_id": "17",
+  "clicks": 2
+},
+{
+  "_id": {
+    "$oid": "6677016d8bf6b00886c960f9"
+  },
+  "animal_id": "14",
+  "clicks": 2
+},
+{
+  "_id": {
+    "$oid": "667713de8bf6b00886c96a63"
+  },
+  "animal_id": "19",
+  "clicks": 3
+},
+{
+  "_id": {
+    "$oid": "667857238bf6b00886c9c9fa"
+  },
+  "animal_id": "24",
+  "clicks": 1
+}]
