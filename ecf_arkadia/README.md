@@ -87,7 +87,7 @@ Développer une plateforme web interactive et transparente, offrant une expérie
 
 9. **Lancement de l'Application**
    - Démarrez les services Apache et MySQL.
-   - Accédez à `http://localhost/arkadia_zoo/index.php` ce fichier est le point d'entrée de l'application.
+   - Accédez à `http://localhost/ecf_arkadia/index.php` ce fichier est le point d'entrée de l'application.
 
 ## Accès à l'Application
 
