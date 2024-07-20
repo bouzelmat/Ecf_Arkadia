@@ -16,7 +16,7 @@ class Veterinaire extends Utilisateur {
 
     public function login($username, $password) {
         if (parent::login($username, $password)) {
-            return $this->role_id === 2; // Assurez-vous que 2 correspond au rôle vétérinaire
+            return $this->role_id === 2; 
         }
         return false;
     }
