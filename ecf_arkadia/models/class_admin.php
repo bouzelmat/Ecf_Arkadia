@@ -15,7 +15,7 @@ class Administrateur extends Utilisateur {
 
     public function login($username, $password) {
         if (parent::login($username, $password)) {
-            return $this->role_id === 1; // Assurez-vous que 1 correspond au rôle admin
+            return $this->role_id === 1; 
         }
         return false;
     }
